@@ -23,7 +23,7 @@ setup(
     extras_require={
         "aioarangodb": ["aioarangodb~=0.1.2"],
         "motor": ["motor>=2.0.0,<3"],
-        "pymongo": ["pymongo~=3.10.1"],
+        "pymongo": ["pymongo~=4.2.0"],
         "python-arango": ["python-arango~=5.4.0"],
     },
     classifiers=[
